@@ -1,5 +1,5 @@
 Arquivo para Git-practice
 Nome: João Pedro
 Idade: 28
-O que gosta de fazer? >>>>> 
+O que gosta de fazer? < Gosto de dirigir, ouvir músicas, comer e viajar, e amo café! >
 
